@@ -11,6 +11,3 @@
     carouselItems.forEach((item, index) => {
         item.textContent = texts[Math.floor(Math.random() * texts.length)];
     });
-
-
-
